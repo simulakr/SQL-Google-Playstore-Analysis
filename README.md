@@ -3,7 +3,7 @@
 * Insights from App Categories & Popularity
 * Discovering Key Trends in the Google Play Store
 
-* **Using Methods** *
+* **Using Methods** 
 1. Data Cleaning & Preparation
 2. Duplicated Rows Removing
 3. CTE (Common Table Expression)
